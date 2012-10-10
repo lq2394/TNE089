@@ -1,0 +1,8 @@
+BEGIN_SUBSTRATE
+1 __SubstrateLayer1
+0 top
+END_SUBSTRATE
+BEGIN_MASK
+5 hole
+1 cond
+END_MASK

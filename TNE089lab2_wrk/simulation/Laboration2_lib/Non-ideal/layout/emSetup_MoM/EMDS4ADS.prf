@@ -1,0 +1,57 @@
+Begin_Block  Header 
+  
+  Mode  ASCII 
+  File_Name  H:/LiU2012/Electromagnetic/Labs/Laboration2_wrk/simulation/Laboration2_lib/Non-ideal/layout/emSetup_MoM/EMDS4ADS.prf 
+  Version  3.00 
+  
+End_Block  Header 
+
+Begin_Block  Data 
+  
+  Begin_Preferences 
+  
+  Begin_Material_Block 
+  Material __TOP    7.9215686274509800e-001     8.8235294117647056e-001     1.0000000000000000e+000  
+  Material cond    9.3333333333333335e-001     4.1568627450980394e-001     3.1372549019607843e-001  
+  Material __SubstrateLayer2    7.9215686274509800e-001     8.8235294117647056e-001     1.0000000000000000e+000  
+  Material cond2    1.0000000000000000e+000     1.0000000000000000e+000     0.0000000000000000e+000  
+  Material __BOTTOM    7.9215686274509800e-001     8.8235294117647056e-001     1.0000000000000000e+000  
+  End_Material_Block 
+  
+  Begin_Color_Block 
+  Object __BOTTOM_2    7.9215686274509800e-001     8.8235294117647056e-001     1.0000000000000000e+000  
+  Object __SubstrateLayer2_2    7.9215686274509800e-001     8.8235294117647056e-001     1.0000000000000000e+000  
+  Object __TOP_2    7.9215686274509800e-001     8.8235294117647056e-001     1.0000000000000000e+000  
+  Object cond2_2    1.0000000000000000e+000     1.0000000000000000e+000     0.0000000000000000e+000  
+  Object cond_2    9.3333333333333335e-001     4.1568627450980394e-001     3.1372549019607843e-001  
+  End_Color_Block 
+  
+  Begin_Visible_Block 
+  Object __BOTTOM_2 1  0  0  
+  Object __SubstrateLayer2_2 1  0  0  
+  Object __TOP_2 1  0  0  
+  Object cond2_2 1  0  0  
+  Object cond_2 1  0  0  
+  End_Visible_Block 
+  
+  Begin_Plane_Block 
+  Planes 0  
+  End_Plane_Block 
+  
+  Begin_Camera_Block 
+  Position   -2.6278379440307617e+001     3.0217823028564453e+001     1.1507717132568359e+001  
+  Target   -6.1422533988952637e+000     2.8679267883300781e+001     1.5692894458770752e+000  
+  Up    4.4090178608894348e-001     2.9765045642852783e-001     8.4722656011581421e-001  
+     9.0031089782714844e+000     9.0031089782714844e+000  
+  End_Camera_Block 
+  
+  Begin_Background_Block 
+  Top_Color    0.0000000000000000e+000     0.0000000000000000e+000     0.0000000000000000e+000  
+  Bottom_Color    0.0000000000000000e+000     0.0000000000000000e+000     0.0000000000000000e+000  
+  Shadow 0  
+  End_Background_Block 
+  
+  End_Preferences 
+  
+End_Block  Data 
+

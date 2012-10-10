@@ -1,0 +1,56 @@
+Begin_Block  Header 
+  
+  Mode  ASCII 
+  File_Name  H:/LiU2012/Electromagnetic/Labs/Laboration2_wrk/simulation/Laboration2_lib/Cross_talk_2_23_1.75mm/layout/emSetup_MoM/EMDS4ADS.prf 
+  Version  3.00 
+  
+End_Block  Header 
+
+Begin_Block  Data 
+  
+  Begin_Preferences 
+  
+  Begin_Material_Block 
+  Material __TOP    7.9215686274509800e-001     8.8235294117647056e-001     1.0000000000000000e+000  
+  Material cond    9.3333333333333335e-001     4.1568627450980394e-001     3.1372549019607843e-001  
+  Material __SubstrateLayer1    7.9215686274509800e-001     8.8235294117647056e-001     1.0000000000000000e+000  
+  Material closed_bottom    0.0000000000000000e+000     0.0000000000000000e+000     7.5294117647058822e-001  
+  End_Material_Block 
+  
+  Begin_Color_Block 
+  Object __SubstrateLayer1_2    7.9215686274509800e-001     8.8235294117647056e-001     1.0000000000000000e+000  
+  Object __TOP_2    7.9215686274509800e-001     8.8235294117647056e-001     1.0000000000000000e+000  
+  Object closed_bottom_2    0.0000000000000000e+000     0.0000000000000000e+000     7.5294117647058822e-001  
+  Object cond_3    9.3333333333333335e-001     4.1568627450980394e-001     3.1372549019607843e-001  
+  Object cond_2    9.3333333333333335e-001     4.1568627450980394e-001     3.1372549019607843e-001  
+  End_Color_Block 
+  
+  Begin_Visible_Block 
+  Object __SubstrateLayer1_2 1  0  0  
+  Object __TOP_2 1  0  0  
+  Object closed_bottom_2 1  0  70  
+  Object cond_3 1  0  0  
+  Object cond_2 1  0  0  
+  End_Visible_Block 
+  
+  Begin_Plane_Block 
+  Planes 0  
+  End_Plane_Block 
+  
+  Begin_Camera_Block 
+  Position    1.6180740356445312e+002     4.8836864471435547e+001     5.9467227935791016e+001  
+  Target    2.5001499176025391e+001     6.9529500007629395e+000     7.2000002861022949e-001  
+  Up   -4.6645274758338928e-001     5.2353501319885254e-001     7.1298331022262573e-001  
+     6.1865554809570313e+001     6.1865554809570313e+001  
+  End_Camera_Block 
+  
+  Begin_Background_Block 
+  Top_Color    0.0000000000000000e+000     0.0000000000000000e+000     0.0000000000000000e+000  
+  Bottom_Color    0.0000000000000000e+000     0.0000000000000000e+000     0.0000000000000000e+000  
+  Shadow 0  
+  End_Background_Block 
+  
+  End_Preferences 
+  
+End_Block  Data 
+

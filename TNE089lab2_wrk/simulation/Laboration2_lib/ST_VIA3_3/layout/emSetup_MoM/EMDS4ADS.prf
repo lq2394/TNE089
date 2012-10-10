@@ -1,0 +1,64 @@
+Begin_Block  Header 
+  
+  Mode  ASCII 
+  File_Name  H:/LiU2012/Electromagnetic/Labs/Laboration2_wrk/simulation/Laboration2_lib/ST_VIA3_3/layout/emSetup_MoM/EMDS4ADS.prf 
+  Version  3.00 
+  
+End_Block  Header 
+
+Begin_Block  Data 
+  
+  Begin_Preferences 
+  
+  Begin_Material_Block 
+  Material __TOP    7.9215686274509800e-001     8.8235294117647056e-001     1.0000000000000000e+000  
+  Material cond    9.3333333333333335e-001     4.1568627450980394e-001     3.1372549019607843e-001  
+  Material hole    0.0000000000000000e+000     7.4901960784313726e-001     1.0000000000000000e+000  
+  Material __SubstrateLayer2    7.9215686274509800e-001     8.8235294117647056e-001     1.0000000000000000e+000  
+  Material cond2    1.0000000000000000e+000     1.0000000000000000e+000     0.0000000000000000e+000  
+  Material __BOTTOM    7.9215686274509800e-001     8.8235294117647056e-001     1.0000000000000000e+000  
+  End_Material_Block 
+  
+  Begin_Color_Block 
+  Object hole_2    0.0000000000000000e+000     7.4901960784313726e-001     1.0000000000000000e+000  
+  Object __BOTTOM_2    7.9215686274509800e-001     8.8235294117647056e-001     1.0000000000000000e+000  
+  Object __SubstrateLayer2_2    7.9215686274509800e-001     8.8235294117647056e-001     1.0000000000000000e+000  
+  Object __TOP_2    7.9215686274509800e-001     8.8235294117647056e-001     1.0000000000000000e+000  
+  Object cond2_3    1.0000000000000000e+000     1.0000000000000000e+000     0.0000000000000000e+000  
+  Object cond2_2    1.0000000000000000e+000     1.0000000000000000e+000     0.0000000000000000e+000  
+  Object cond_3    9.3333333333333335e-001     4.1568627450980394e-001     3.1372549019607843e-001  
+  Object cond_2    9.3333333333333335e-001     4.1568627450980394e-001     3.1372549019607843e-001  
+  End_Color_Block 
+  
+  Begin_Visible_Block 
+  Object hole_2 1  0  0  
+  Object __BOTTOM_2 1  0  0  
+  Object __SubstrateLayer2_2 1  0  0  
+  Object __TOP_2 1  0  0  
+  Object cond2_3 1  0  0  
+  Object cond2_2 1  0  0  
+  Object cond_3 1  0  0  
+  Object cond_2 1  0  0  
+  End_Visible_Block 
+  
+  Begin_Plane_Block 
+  Planes 0  
+  End_Plane_Block 
+  
+  Begin_Camera_Block 
+  Position    3.5608425140380859e+001    -1.4124630737304687e+002     1.8123401641845703e+001  
+  Target    3.1000003814697266e+000     2.6455751419067383e+001     4.0000003576278687e-001  
+  Up    7.5245970487594604e-001     2.1177347004413605e-001     6.2367147207260132e-001  
+     6.8696540832519531e+001     6.8696540832519531e+001  
+  End_Camera_Block 
+  
+  Begin_Background_Block 
+  Top_Color    0.0000000000000000e+000     0.0000000000000000e+000     0.0000000000000000e+000  
+  Bottom_Color    0.0000000000000000e+000     0.0000000000000000e+000     0.0000000000000000e+000  
+  Shadow 0  
+  End_Background_Block 
+  
+  End_Preferences 
+  
+End_Block  Data 
+

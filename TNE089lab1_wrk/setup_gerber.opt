@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<AdsTranslatorSetupFile Version="1.0">
+    <Import>
+        <ZeroSuppression>Leading</ZeroSuppression>
+        <CoordMode>AbsoluteCMode</CoordMode>
+        <NumIntegerDigits>2</NumIntegerDigits>
+        <NumFractionalDigits>4</NumFractionalDigits>
+        <Unit>inch</Unit>
+        <Layers />
+    </Import>
+    <Export>
+        <FileFormat>RS274X</FileFormat>
+        <ZeroSuppression>None</ZeroSuppression>
+        <CoordMode>AbsoluteCMode</CoordMode>
+        <NumIntegerDigits>3</NumIntegerDigits>
+        <NumFractionalDigits>4</NumFractionalDigits>
+        <XOffset>0</XOffset>
+        <YOffset>0</YOffset>
+        <Scale>1</Scale>
+        <OpenLineWidth>0.025</OpenLineWidth>
+        <SingleFile>0</SingleFile>
+        <Unit>mm</Unit>
+        <Flatten>0</Flatten>
+        <PathsAsPolygons>1</PathsAsPolygons>
+        <HoleFormat>Holes As Cutlines</HoleFormat>
+        <Layers>
+            <Layer EecadLayer="cond" AdsLayer="cond" Transfer="1" />
+            <Layer EecadLayer="hole" AdsLayer="hole" Transfer="1" />
+            <Layer EecadLayer="solder_mask" AdsLayer="solder_mask" Transfer="1" />
+            <Layer AdsLayer="cond" Polarity="Positive" />
+            <Layer AdsLayer="hole" Polarity="Positive" />
+            <Layer AdsLayer="solder_mask" Polarity="Positive" />
+        </Layers>
+        <SingleFileFilename></SingleFileFilename>
+        <DrillLayers>
+            <Layer LayerName="hole" LayerNumber="5" DrillExport="1">
+                <DrillDiameterMap DrawDiameter="6000" ToolDiameter="6000" />
+            </Layer>
+        </DrillLayers>
+        <AutoMerge>0</AutoMerge>
+        <VectorizeText>1</VectorizeText>
+        <LayerStackup>1</LayerStackup>
+    </Export>
+</AdsTranslatorSetupFile>

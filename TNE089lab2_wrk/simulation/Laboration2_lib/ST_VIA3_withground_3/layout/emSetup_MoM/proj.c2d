@@ -1,0 +1,171 @@
+CITIFILE A.01.01
+#Momentum: B.09.00.103 (*) 370.600 Mar  9 2011 
+#Momentum Date and Time: Wed Oct 10 16:49:06 2012
+
+NAME PortSet1/TwoP5_Dsolver_data/first_odd_mode_is_1/most_even_mode_is_1/PMLG0/LS0
+
+CONSTANT NBR_OF_PORTS 4
+
+VAR freq MAG 4
+
+DATA GAMMA_1[1] RI
+DATA GAMMA_1[2] RI
+DATA Z0_1[1,1] RI
+DATA Z0_1[1,2] RI
+DATA Z0_1[2,1] RI
+DATA Z0_1[2,2] RI
+DATA LAMBADAI_1[1,1] RI
+DATA LAMBADAI_1[1,2] RI
+DATA LAMBADAI_1[2,1] RI
+DATA LAMBADAI_1[2,2] RI
+
+VAR_LIST_BEGIN
+	 100000000
+	 1066666667
+	 2033333333
+	 3000000000
+VAR_LIST_END
+
+BEGIN
+	 0,	 2.418011328
+	 0,	 25.79212083
+	 0,	 49.16623033
+	 0,	 72.54033983
+END
+BEGIN
+	 0,	 2.418011328
+	 0,	 25.79212083
+	 0,	 49.16623033
+	 0,	 72.54033983
+END
+BEGIN
+	 50 ,	 0 
+	 50 ,	 0 
+	 50 ,	 0 
+	 50 ,	 0 
+END
+BEGIN
+	 0,	 0
+	 0,	 0
+	 0,	 0
+	 0,	 0
+END
+BEGIN
+	 0,	 0
+	 0,	 0
+	 0,	 0
+	 0,	 0
+END
+BEGIN
+	 50 ,	 0 
+	 50 ,	 0 
+	 50 ,	 0 
+	 50 ,	 0 
+END
+BEGIN
+	 0,	 0
+	 0,	 0
+	 0,	 0
+	 0,	 0
+END
+BEGIN
+	 0,	 0
+	 0,	 0
+	 0,	 0
+	 0,	 0
+END
+BEGIN
+	 0,	 0
+	 0,	 0
+	 0,	 0
+	 0,	 0
+END
+BEGIN
+	 0,	 0
+	 0,	 0
+	 0,	 0
+	 0,	 0
+END
+CITIFILE A.01.01
+NAME PortSet2/TwoP5_Dsolver_data/first_odd_mode_is_1/most_even_mode_is_1/PMLG0/LS0
+
+VAR freq MAG 4
+
+DATA GAMMA_2[1] RI
+DATA GAMMA_2[2] RI
+DATA Z0_2[1,1] RI
+DATA Z0_2[1,2] RI
+DATA Z0_2[2,1] RI
+DATA Z0_2[2,2] RI
+DATA LAMBADAI_2[1,1] RI
+DATA LAMBADAI_2[1,2] RI
+DATA LAMBADAI_2[2,1] RI
+DATA LAMBADAI_2[2,2] RI
+
+VAR_LIST_BEGIN
+	 100000000
+	 1066666667
+	 2033333333
+	 3000000000
+VAR_LIST_END
+
+BEGIN
+	 0,	 2.418011328
+	 0,	 25.79212083
+	 0,	 49.16623033
+	 0,	 72.54033983
+END
+BEGIN
+	 0,	 2.418011328
+	 0,	 25.79212083
+	 0,	 49.16623033
+	 0,	 72.54033983
+END
+BEGIN
+	 50 ,	 0 
+	 50 ,	 0 
+	 50 ,	 0 
+	 50 ,	 0 
+END
+BEGIN
+	 0,	 0
+	 0,	 0
+	 0,	 0
+	 0,	 0
+END
+BEGIN
+	 0,	 0
+	 0,	 0
+	 0,	 0
+	 0,	 0
+END
+BEGIN
+	 50 ,	 0 
+	 50 ,	 0 
+	 50 ,	 0 
+	 50 ,	 0 
+END
+BEGIN
+	 0,	 0
+	 0,	 0
+	 0,	 0
+	 0,	 0
+END
+BEGIN
+	 0,	 0
+	 0,	 0
+	 0,	 0
+	 0,	 0
+END
+BEGIN
+	 0,	 0
+	 0,	 0
+	 0,	 0
+	 0,	 0
+END
+BEGIN
+	 0,	 0
+	 0,	 0
+	 0,	 0
+	 0,	 0
+END

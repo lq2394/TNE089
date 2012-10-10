@@ -1,0 +1,14 @@
+Using the minimal snap distance of 0.0004 mm
+(4 layout resolution points) for layout healing.
+Generating mesh at 10 GHz...
+
+--- ERROR ---------------------------------------------------------------------
+
+A calibrated pin must not be positioned on an
+edge on which other pins are positioned.
+(Using a single calibrated pin simultaneously in
+several ports is also invalid in this respect.)
+The pins involved are "P2" and "P4".
+
+-------------------------------------------------------------------------------
+

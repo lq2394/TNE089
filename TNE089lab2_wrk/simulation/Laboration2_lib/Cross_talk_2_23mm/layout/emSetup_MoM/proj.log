@@ -1,0 +1,83 @@
+Momentum MomEngine 9.0.103 (*) 370.600 Mar  9 2011
+Simulation started on: Wed Oct 10 14:34:23 2012
+Simulation Mode: uW
+Substrate valid
+Using the minimal snap distance of 0.0004 mm
+(4 layout resolution points) for layout healing.
+Layout simplification started
+.........|.........|.........|.........| 
+Layout simplification finished
+Generating mesh at 3 GHz...
+Maximum number of threads allowed by license: 16
+S-parameter simulation
+S-parameter simulation started
+...initializing
+...analyzing ports
+...extracting layout
+...reducing mesh
+Automatic selection: direct dense matrix solver
+Using multi-threading (2 threads)
+Adaptive frequency sweep started
+Simulation frequency [1] = 100 MHz
+...loading Green functions
+...allocating interaction matrix
+...loading interaction matrix
+...solving interaction matrix
+...calibrating ports
+...calculating S-parameters
+Simulation frequency [2] = 3 GHz
+...loading Green functions
+...loading interaction matrix
+...solving interaction matrix
+...calibrating ports
+...calculating S-parameters
+Adaptive:   0.0 % of frequency range covered
+Simulation frequency [3] = 2.03333 GHz
+...loading Green functions
+...loading interaction matrix
+...solving interaction matrix
+...calibrating ports
+...calculating S-parameters
+Simulation frequency [4] = 1.06667 GHz
+...loading Green functions
+...loading interaction matrix
+...solving interaction matrix
+...calibrating ports
+...calculating S-parameters
+Simulation frequency [5] = 1.87222 GHz
+...loading Green functions
+...loading interaction matrix
+...solving interaction matrix
+...calibrating ports
+...calculating S-parameters
+Simulation frequency [6] = 905.556 MHz
+...loading Green functions
+...loading interaction matrix
+...solving interaction matrix
+...calibrating ports
+...calculating S-parameters
+Simulation frequency [7] = 2.67778 GHz
+...loading Green functions
+...loading interaction matrix
+...solving interaction matrix
+...calibrating ports
+...calculating S-parameters
+Simulation frequency [8] = 2.83889 GHz
+...loading Green functions
+...loading interaction matrix
+...solving interaction matrix
+...calibrating ports
+...calculating S-parameters
+Simulation frequency [9] = 368.519 MHz
+...loading Green functions
+...loading interaction matrix
+...solving interaction matrix
+...calibrating ports
+...calculating S-parameters
+Adaptive: 100.0 % of frequency range covered
+S-parameter simulation finished
+Simulation finished on: Wed Oct 10 14:34:37 2012
+Momentum MomEngine 9.0.103 (*) 370.600 Mar  9 2011
+Simulation started on: Wed Oct 10 14:34:54 2012
+Simulation Mode: uW
+Simulation finished on: Wed Oct 10 14:34:55 2012

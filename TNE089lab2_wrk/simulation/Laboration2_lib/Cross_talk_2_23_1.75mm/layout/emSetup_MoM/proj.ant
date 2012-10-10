@@ -1,0 +1,19 @@
+#Momentum: B.09.00.103 (*) 370.600 Mar  9 2011 
+#Momentum Date and Time: Wed Oct 10 14:40:16 2012
+
+# Antenna Parameters name : proj.ant
+
+Excitation 1
+Frequency 1.872222222 GHz
+Maximum radiation intensity 2.490095755e-006
+Angle of U_max 77.27446347 0
+E_theta_max 0.0433150017 ; E_phi_max 0
+E_theta_max 0.01836903218 0.03922713383
+E_phi_max 0 0
+Ex_max 0.004046348316 0.008640991283
+Ey_max 0 0
+Ez_max -0.01791782377 -0.03826357666
+Power radiated 1 5.048277819e-006
+Effective angle 2.027342848 steradians 47.36399806 degrees 
+Directivity 7.922826647 dB
+Gain -10.28965969 dB

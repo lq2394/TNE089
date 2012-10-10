@@ -1,0 +1,12 @@
+Wed Oct 03 16:46:29 2012
+Writing Gerber file "C:\Users\LQ\TNE089lab_wrk\mfg\Lab1_lib_Test\gerber".
+
+Warnings occurred during translation:
+
+
+WARNING: For artwork accuracy, Gerber precision should have a finer resolution than ADS layout precision.
+To ensure this, set the "Fractional digits" Gerber export option to be one greater than the number
+ of decimal places in the "Layout Units > Resolution" layout preference value.
+
+Export Complete
+

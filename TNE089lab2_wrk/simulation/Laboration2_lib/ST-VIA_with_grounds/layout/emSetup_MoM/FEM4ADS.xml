@@ -1,0 +1,67 @@
+<!DOCTYPE EMViewerXML>
+<Visualization>
+ <Materials>
+  <material red="0.792156862745098" blue="1" name="__TOP" green="0.8823529411764706" />
+  <material red="0.9333333333333334" blue="0.3137254901960784" name="cond" green="0.4156862745098039" />
+  <material red="0" blue="1" name="hole" green="0.7490196078431373" />
+  <material red="0.792156862745098" blue="1" name="__SubstrateLayer2" green="0.8823529411764706" />
+  <material red="1" blue="0" name="cond2" green="1" />
+  <material red="0.792156862745098" blue="1" name="__BOTTOM" green="0.8823529411764706" />
+ </Materials>
+ <Objects>
+  <object opaque="0" solid="0" visible="1" red="0" blue="1" name="hole_38" green="0.7490196078431373" />
+  <object opaque="0" solid="0" visible="1" red="0" blue="1" name="hole_37" green="0.7490196078431373" />
+  <object opaque="0" solid="0" visible="1" red="0" blue="1" name="hole_36" green="0.7490196078431373" />
+  <object opaque="0" solid="0" visible="1" red="0" blue="1" name="hole_35" green="0.7490196078431373" />
+  <object opaque="0" solid="0" visible="1" red="0" blue="1" name="hole_34" green="0.7490196078431373" />
+  <object opaque="0" solid="0" visible="1" red="0" blue="1" name="hole_33" green="0.7490196078431373" />
+  <object opaque="0" solid="0" visible="1" red="0" blue="1" name="hole_32" green="0.7490196078431373" />
+  <object opaque="0" solid="0" visible="1" red="0" blue="1" name="hole_31" green="0.7490196078431373" />
+  <object opaque="0" solid="0" visible="1" red="0" blue="1" name="hole_30" green="0.7490196078431373" />
+  <object opaque="0" solid="0" visible="1" red="0" blue="1" name="hole_29" green="0.7490196078431373" />
+  <object opaque="0" solid="0" visible="1" red="0" blue="1" name="hole_28" green="0.7490196078431373" />
+  <object opaque="0" solid="0" visible="1" red="0" blue="1" name="hole_27" green="0.7490196078431373" />
+  <object opaque="0" solid="0" visible="1" red="0" blue="1" name="hole_26" green="0.7490196078431373" />
+  <object opaque="0" solid="0" visible="1" red="0" blue="1" name="hole_25" green="0.7490196078431373" />
+  <object opaque="0" solid="0" visible="1" red="0" blue="1" name="hole_24" green="0.7490196078431373" />
+  <object opaque="0" solid="0" visible="1" red="0" blue="1" name="hole_23" green="0.7490196078431373" />
+  <object opaque="0" solid="0" visible="1" red="0" blue="1" name="hole_22" green="0.7490196078431373" />
+  <object opaque="0" solid="0" visible="1" red="0" blue="1" name="hole_21" green="0.7490196078431373" />
+  <object opaque="0" solid="0" visible="1" red="0" blue="1" name="hole_20" green="0.7490196078431373" />
+  <object opaque="0" solid="0" visible="1" red="0" blue="1" name="hole_19" green="0.7490196078431373" />
+  <object opaque="0" solid="0" visible="1" red="0" blue="1" name="hole_18" green="0.7490196078431373" />
+  <object opaque="0" solid="0" visible="1" red="0" blue="1" name="hole_17" green="0.7490196078431373" />
+  <object opaque="0" solid="0" visible="1" red="0" blue="1" name="hole_16" green="0.7490196078431373" />
+  <object opaque="0" solid="0" visible="1" red="0" blue="1" name="hole_15" green="0.7490196078431373" />
+  <object opaque="0" solid="0" visible="1" red="0" blue="1" name="hole_14" green="0.7490196078431373" />
+  <object opaque="0" solid="0" visible="1" red="0" blue="1" name="hole_13" green="0.7490196078431373" />
+  <object opaque="0" solid="0" visible="1" red="0" blue="1" name="hole_12" green="0.7490196078431373" />
+  <object opaque="0" solid="0" visible="1" red="0" blue="1" name="hole_11" green="0.7490196078431373" />
+  <object opaque="0" solid="0" visible="1" red="0" blue="1" name="hole_10" green="0.7490196078431373" />
+  <object opaque="0" solid="0" visible="1" red="0" blue="1" name="hole_9" green="0.7490196078431373" />
+  <object opaque="0" solid="0" visible="1" red="0" blue="1" name="hole_8" green="0.7490196078431373" />
+  <object opaque="0" solid="0" visible="1" red="0" blue="1" name="hole_7" green="0.7490196078431373" />
+  <object opaque="0" solid="0" visible="1" red="0" blue="1" name="hole_6" green="0.7490196078431373" />
+  <object opaque="0" solid="0" visible="1" red="0" blue="1" name="hole_5" green="0.7490196078431373" />
+  <object opaque="0" solid="0" visible="1" red="0" blue="1" name="hole_4" green="0.7490196078431373" />
+  <object opaque="0" solid="0" visible="1" red="0" blue="1" name="hole_3" green="0.7490196078431373" />
+  <object opaque="0" solid="0" visible="1" red="0" blue="1" name="hole_2" green="0.7490196078431373" />
+  <object opaque="0" solid="0" visible="1" red="0.792156862745098" blue="1" name="__BOTTOM_2" green="0.8823529411764706" />
+  <object opaque="0" solid="0" visible="1" red="0.792156862745098" blue="1" name="__SubstrateLayer2_2" green="0.8823529411764706" />
+  <object opaque="0" solid="0" visible="1" red="0.792156862745098" blue="1" name="__TOP_2" green="0.8823529411764706" />
+  <object opaque="0" solid="0" visible="1" red="1" blue="0" name="cond2_3" green="1" />
+  <object opaque="0" solid="0" visible="1" red="1" blue="0" name="cond2_2" green="1" />
+  <object opaque="0" solid="0" visible="1" red="0.9333333333333334" blue="0.3137254901960784" name="cond_3" green="0.4156862745098039" />
+  <object opaque="0" solid="0" visible="1" red="0.9333333333333334" blue="0.3137254901960784" name="cond_2" green="0.4156862745098039" />
+ </Objects>
+ <Planes/>
+ <Camera>
+  <Position x="50.8111" y="59.4088" z="-144.733" />
+  <Target x="4.5453" y="2.8361" z="0.4" />
+  <Up x="-0.704181" y="-0.556226" z="-0.441295" />
+  <Size width="64.9976" height="64.9976" />
+  <Top_Color red="0" blue="0" green="0" />
+  <Bottom_Color red="0" blue="0" green="0" />
+  <Background shadow="0" />
+ </Camera>
+</Visualization>

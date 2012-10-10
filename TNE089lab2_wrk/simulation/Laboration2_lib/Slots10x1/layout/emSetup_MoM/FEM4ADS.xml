@@ -1,0 +1,27 @@
+<!DOCTYPE EMViewerXML>
+<Visualization>
+ <Materials>
+  <material red="0.792156862745098" blue="1" name="__TOP" green="0.8823529411764706" />
+  <material red="0.9333333333333334" blue="0.3137254901960784" name="cond" green="0.4156862745098039" />
+  <material red="0.792156862745098" blue="1" name="__SubstrateLayer2" green="0.8823529411764706" />
+  <material red="1" blue="0" name="cond2" green="1" />
+  <material red="0.792156862745098" blue="1" name="__BOTTOM" green="0.8823529411764706" />
+ </Materials>
+ <Objects>
+  <object opaque="0" solid="0" visible="1" red="0.792156862745098" blue="1" name="__BOTTOM_2" green="0.8823529411764706" />
+  <object opaque="0" solid="0" visible="1" red="0.792156862745098" blue="1" name="__SubstrateLayer2_2" green="0.8823529411764706" />
+  <object opaque="0" solid="0" visible="1" red="0.792156862745098" blue="1" name="__TOP_2" green="0.8823529411764706" />
+  <object opaque="0" solid="0" visible="1" red="1" blue="0" name="cond2_2" green="1" />
+  <object opaque="0" solid="0" visible="1" red="0.9333333333333334" blue="0.3137254901960784" name="cond_2" green="0.4156862745098039" />
+ </Objects>
+ <Planes/>
+ <Camera>
+  <Position x="123.313" y="-97.8633" z="125.063" />
+  <Target x="-1.35" y="26.8" z="0.4" />
+  <Up x="-0.40825" y="0.40825" z="0.8165" />
+  <Size width="86.3693" height="86.3693" />
+  <Top_Color red="0" blue="0" green="0" />
+  <Bottom_Color red="0" blue="0" green="0" />
+  <Background shadow="0" />
+ </Camera>
+</Visualization>

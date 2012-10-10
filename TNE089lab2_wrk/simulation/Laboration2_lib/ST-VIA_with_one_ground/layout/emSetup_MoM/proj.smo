@@ -1,0 +1,45 @@
+CITIFILE A.01.01
+#Momentum: B.09.20.456 (*) 372.600 Nov 12 2011 
+#Momentum Date and Time: Wed Oct 10 21:50:55 2012
+
+NAME Momentum.SP
+
+# project: proj  [ S_smoothed = S_calculated * smoothing_factor ]
+
+CONSTANT NORMALIZATION 1.007718055
+
+VAR freq MAG 13
+
+DATA smoothing_factor RI
+
+VAR_LIST_BEGIN
+	 100000000
+	 140277777.8
+	 341666666.8
+	 583333333.5
+	 1066666667
+	 1550000000
+	 1791666667
+	 2033333333
+	 2516666667
+	 2838888889
+	 2865740741
+	 2910493827
+	 3000000000
+VAR_LIST_END
+
+BEGIN
+	 1 ,	 0 
+	 0.99574232500000004 ,	 0 
+	 0.99534449800000002 ,	 0 
+	 1 ,	 0 
+	 1 ,	 0 
+	 1 ,	 0 
+	 1 ,	 0 
+	 1 ,	 0 
+	 1 ,	 0 
+	 1 ,	 0 
+	 1 ,	 0 
+	 1 ,	 0 
+	 1 ,	 0 
+END

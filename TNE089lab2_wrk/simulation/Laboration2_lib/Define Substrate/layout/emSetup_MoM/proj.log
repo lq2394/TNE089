@@ -1,0 +1,36 @@
+Momentum MomEngine_64 9.20.456 (*) 372.600 Nov 12 2011
+Copyright 1992-2011, Agilent Technologies
+Simulation started on: Wed Oct 10 20:33:30 2012
+Simulation Mode: uW
+Substrate to be computed from 0.00700602 GHz to 0.1 GHz,
+                     and from 3 GHz to 10 GHz!
+Substrate calculation started
+.........|.........|.........|.........| 
+Substrate calculation finished
+Using the minimal snap distance of 0.0004 mm
+(4 layout resolution points) for layout healing.
+Layout simplification started
+.........|.........|.........|.........| 
+Layout simplification finished
+Generating mesh at 10 GHz...
+
+--- ERROR ---------------------------------------------------------------------
+
+A calibrated pin must not be positioned on an
+edge on which other pins are positioned.
+(Using a single calibrated pin simultaneously in
+several ports is also invalid in this respect.)
+The pins involved are "P2" and "P4".
+
+-------------------------------------------------------------------------------
+
+--- ERROR ---------------------------------------------------------------------
+
+A calibrated pin must not be positioned on an
+edge on which other pins are positioned.
+(Using a single calibrated pin simultaneously in
+several ports is also invalid in this respect.)
+The pins involved are "P2" and "P4".
+
+-------------------------------------------------------------------------------
+Simulation finished on: Wed Oct 10 20:34:02 2012

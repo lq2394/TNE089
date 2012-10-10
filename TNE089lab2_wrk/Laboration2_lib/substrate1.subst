@@ -1,0 +1,17 @@
+<!DOCTYPE Substrate>
+<SubstrateModel>
+    <stack>
+        <material materialname="AIR"/>
+        <interface materialname="PERFECT_CONDUCTOR" thick="0" thickunit="micron" groundplane="1"/>
+        <material materialname="FR_4" thick="0.8" thickunit="millimeter"/>
+        <interface materialname="" thick="0" thickunit="micron"/>
+        <material materialname="AIR"/>
+    </stack>
+    <layers>
+        <layer materialname="Copper" toprough="" bottomrough="" thick="35" precedence="1" sheet="1" thickunit="micron" layer="1" negative="0" subtype="0" expand="0" index="1"/>
+    </layers>
+    <vias>
+        <via materialname="Copper" rough="" index1="0" index2="1" precedence="0" layer="5" subtype="0"/>
+    </vias>
+    <substrates/>
+</SubstrateModel>
